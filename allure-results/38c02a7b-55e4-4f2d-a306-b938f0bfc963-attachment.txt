@@ -1,0 +1,3 @@
+
+[START] Test 'Day2/test_radio_button.py::test_interact_with_radio_button' - 23:09:15
+[END] Test 'Day2/test_radio_button.py::test_interact_with_radio_button' finished in 34.22 seconds.

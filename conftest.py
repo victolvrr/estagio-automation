@@ -4,6 +4,9 @@ import json
 from pathlib import Path
 import time
 import os, pytest_html
+import csv
+
+
 
 def pytest_addoption(parser):
     parser.addoption("--browser", action="store", default="chrome", help="browser to execute tests (chrome or firefox)")
@@ -49,22 +52,59 @@ def pytest_runtest_teardown(item):
     with LOG_FILE.open("a", encoding="utf-8") as f:
         f.write(msg + "\n")
 
+report_data = []
+
 @pytest.hookimpl(hookwrapper=True)
 def pytest_runtest_makereport(item, call):
+
     outcome = yield
     report = outcome.get_result()
     extra = getattr(report, "extra", [])
-    if report.when == "call" and report.failed:
-        # Create screenshots directory if it doesn't exist
-        if not os.path.exists("screenshots"):
-            os.makedirs("screenshots")
-        # Take screenshot
-        driver = item.funcargs['driver']
-        screenshot_file = os.path.join("screenshots", f"{item.name}_error.png")
-        driver.save_screenshot(screenshot_file)
-        # Add screenshot to the HTML report
-        if screenshot_file:
-            html = f'<div><img src="{screenshot_file}" alt="screenshot" style="width:304px;height:228px;" ' \
-           f'onclick="window.open(this.src)" align="right"/></div>'
-            extra.append(pytest_html.extras.html(html))
+    if report.when == "call": # and report.failed:
+
+        status = 'Passed' if report.passed else 'Failed'
+        browser = getattr(item, 'browser', 'N/A')
+        test_name = item.name
+        duration = f"{report.duration:.4f}s"
+
+        if report.failed:
+            # Create screenshots directory if it doesn't exist
+            if not os.path.exists("screenshots"):
+                os.makedirs("screenshots")
+            # Take screenshot
+            driver = item.funcargs['driver']
+            screenshot_file = os.path.join("screenshots", f"{item.name}_error.png")
+            driver.save_screenshot(screenshot_file)
+            # Add screenshot to the HTML report
+            if screenshot_file:
+                html = f'<div><img src="{screenshot_file}" alt="screenshot" style="width:304px;height:228px;" ' \
+            f'onclick="window.open(this.src)" align="right"/></div>'
+                extra.append(pytest_html.extras.html(html))
+        
+        report_data.append({
+            "browser": browser.capitalize(),
+            "test_case_name": test_name,
+            "status": status,
+            "timestamp": duration
+        })
+
     report.extra = extra
+
+def pytest_sessionfinish(session):
+    """
+    Hook executed in the end of test session to create the CSV report.
+    """
+    if not report_data:
+        return
+        
+    # Ordena os dados por navegador para um relatório mais legível
+    sorted_reports = sorted(report_data, key=lambda x: x['navegador'])
+    
+    keys = sorted_reports[0].keys()
+    
+    with open('test_report.csv', 'w', newline='') as output_file:
+        dict_writer = csv.DictWriter(output_file, fieldnames=keys)
+        dict_writer.writeheader()
+        dict_writer.writerows(sorted_reports)
+
+    print("\nReport 'test_report.csv' generated successfully")

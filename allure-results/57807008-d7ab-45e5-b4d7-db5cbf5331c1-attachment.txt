@@ -1,3 +1,0 @@
-
-[START] Test 'tests/test_practice_form.py::test_fill_practice_form[data0]' - 10:46:18
-[END] Test 'tests/test_practice_form.py::test_fill_practice_form[data0]' finished in 38.52 seconds.
