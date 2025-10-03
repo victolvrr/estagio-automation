@@ -1,0 +1,8 @@
+
+[START] Test 'tests/test_scopes.py::TestGroupB::test_three' - 09:11:08
+
+[SETUP] class_resource
+Running TestGroupB.test_three
+[TEARDOWN] class_resource
+[TEARDOWN] module_resource
+[END] Test 'tests/test_scopes.py::TestGroupB::test_three' finished in 0.01 seconds.

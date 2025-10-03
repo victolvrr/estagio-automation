@@ -1,0 +1,3 @@
+
+[START] Test 'tests/test_tool_tips.py::test_hover_over_button' - 09:11:10
+[END] Test 'tests/test_tool_tips.py::test_hover_over_button' finished in 10.01 seconds.

@@ -1,0 +1,629 @@
+
+[START] Test 'tests/test_tool_tips.py::test_hover_over_button' - 08:13:49
+[END] Test 'tests/test_tool_tips.py::test_hover_over_button' finished in 18.50 seconds.
+
+[START] Test 'tests/test_tool_tips.py::test_hover_over_input' - 08:14:07
+[END] Test 'tests/test_tool_tips.py::test_hover_over_input' finished in 10.63 seconds.
+
+[START] Test 'Day1/test_home_page.py::test_verify_demoqa_title' - 08:30:53
+[END] Test 'Day1/test_home_page.py::test_verify_demoqa_title' finished in 15.42 seconds.
+
+[START] Test 'Day2/test_buttons.py::test_double_click_button' - 08:35:40
+[END] Test 'Day2/test_buttons.py::test_double_click_button' finished in 111.27 seconds.
+
+[START] Test 'Day2/test_buttons.py::test_right_click_button' - 08:37:31
+[END] Test 'Day2/test_buttons.py::test_right_click_button' finished in 26.40 seconds.
+
+[START] Test 'Day2/test_buttons.py::test_dynamic_click_button' - 08:37:57
+[END] Test 'Day2/test_buttons.py::test_dynamic_click_button' finished in 16.01 seconds.
+
+[START] Test 'Day2/test_check_box.py::test_check_box' - 08:38:13
+[END] Test 'Day2/test_check_box.py::test_check_box' finished in 24.71 seconds.
+
+[START] Test 'Day2/test_check_box.py::test_check_box_commands' - 08:38:38
+[END] Test 'Day2/test_check_box.py::test_check_box_commands' finished in 18.92 seconds.
+
+[START] Test 'Day2/test_elements.py::test_navigate_to_elements_page' - 08:38:57
+[END] Test 'Day2/test_elements.py::test_navigate_to_elements_page' finished in 11.41 seconds.
+
+[START] Test 'Day2/test_elements.py::test_locate_by_id' - 08:39:08
+[END] Test 'Day2/test_elements.py::test_locate_by_id' finished in 12.53 seconds.
+
+[START] Test 'Day2/test_elements.py::test_locate_by_css_selector' - 08:39:21
+[END] Test 'Day2/test_elements.py::test_locate_by_css_selector' finished in 10.58 seconds.
+
+[START] Test 'Day2/test_elements.py::test_locate_by_xpath' - 08:39:31
+[END] Test 'Day2/test_elements.py::test_locate_by_xpath' finished in 12.42 seconds.
+
+[START] Test 'Day2/test_radio_button.py::test_interact_with_radio_button' - 08:39:44
+[END] Test 'Day2/test_radio_button.py::test_interact_with_radio_button' finished in 12.08 seconds.
+
+[START] Test 'Day2/test_screenshot.py::test_button_clicks_with_screenshots' - 08:39:56
+[END] Test 'Day2/test_screenshot.py::test_button_clicks_with_screenshots' finished in 12.29 seconds.
+
+[START] Test 'Day2/test_text_box.py::test_fill_text_box_form_and_validate' - 08:40:08
+[END] Test 'Day2/test_text_box.py::test_fill_text_box_form_and_validate' finished in 36.15 seconds.
+
+[START] Test 'Day3/test_dinamic_property.py::test_dinamic_button' - 08:42:45
+[END] Test 'Day3/test_dinamic_property.py::test_dinamic_button' finished in 25.20 seconds.
+
+[START] Test 'Day3/test_dinamic_property.py::test_dinamic_button' - 08:43:22
+[END] Test 'Day3/test_dinamic_property.py::test_dinamic_button' finished in 17.68 seconds.
+
+[START] Test 'Day3/test_dinamic_property.py::test_dinamic_button' - 08:49:05
+[END] Test 'Day3/test_dinamic_property.py::test_dinamic_button' finished in 16.60 seconds.
+
+[START] Test 'Day3/test_dinamic_property.py::test_dinamic_button' - 09:01:06
+[END] Test 'Day3/test_dinamic_property.py::test_dinamic_button' finished in 17.71 seconds.
+
+[START] Test 'Day3/test_dinamic_property.py::test_dinamic_button' - 09:01:46
+[END] Test 'Day3/test_dinamic_property.py::test_dinamic_button' finished in 18.31 seconds.
+
+[START] Test 'tests/test_practice_form.py::test_fill_practice_form[data0]' - 09:34:31
+[END] Test 'tests/test_practice_form.py::test_fill_practice_form[data0]' finished in 21.07 seconds.
+
+[START] Test 'tests/test_practice_form.py::test_fill_practice_form[data1]' - 09:34:52
+[END] Test 'tests/test_practice_form.py::test_fill_practice_form[data1]' finished in 14.46 seconds.
+
+[START] Test 'tests/test_practice_form.py::test_fill_practice_form[data0]' - 09:36:56
+[END] Test 'tests/test_practice_form.py::test_fill_practice_form[data0]' finished in 13.42 seconds.
+
+[START] Test 'tests/test_practice_form.py::test_fill_practice_form[data1]' - 09:37:09
+[END] Test 'tests/test_practice_form.py::test_fill_practice_form[data1]' finished in 17.31 seconds.
+
+[START] Test 'tests/test_practice_form.py::test_fill_practice_form[data0]' - 09:43:50
+[END] Test 'tests/test_practice_form.py::test_fill_practice_form[data0]' finished in 14.98 seconds.
+
+[START] Test 'tests/test_practice_form.py::test_fill_practice_form[data1]' - 09:44:05
+[END] Test 'tests/test_practice_form.py::test_fill_practice_form[data1]' finished in 13.12 seconds.
+
+[START] Test 'tests/test_practice_form.py::test_fill_practice_form[data0]' - 09:53:27
+[END] Test 'tests/test_practice_form.py::test_fill_practice_form[data0]' finished in 15.64 seconds.
+
+[START] Test 'tests/test_practice_form.py::test_fill_practice_form[data1]' - 09:53:43
+[END] Test 'tests/test_practice_form.py::test_fill_practice_form[data1]' finished in 15.72 seconds.
+
+[START] Test 'tests/test_practice_form.py::test_fill_practice_form[data0]' - 09:55:18
+[END] Test 'tests/test_practice_form.py::test_fill_practice_form[data0]' finished in 13.56 seconds.
+
+[START] Test 'tests/test_practice_form.py::test_fill_practice_form[data1]' - 09:55:32
+[END] Test 'tests/test_practice_form.py::test_fill_practice_form[data1]' finished in 12.50 seconds.
+
+[START] Test 'tests/test_practice_form.py::test_fill_practice_form[data0]' - 09:58:03
+[END] Test 'tests/test_practice_form.py::test_fill_practice_form[data0]' finished in 11.96 seconds.
+
+[START] Test 'tests/test_practice_form.py::test_fill_practice_form[data1]' - 09:58:15
+[END] Test 'tests/test_practice_form.py::test_fill_practice_form[data1]' finished in 13.44 seconds.
+
+[START] Test 'tests/test_practice_form.py::test_fill_practice_form[data0]' - 10:09:20
+[END] Test 'tests/test_practice_form.py::test_fill_practice_form[data0]' finished in 20.27 seconds.
+
+[START] Test 'tests/test_practice_form.py::test_fill_practice_form[data1]' - 10:09:40
+[END] Test 'tests/test_practice_form.py::test_fill_practice_form[data1]' finished in 14.95 seconds.
+
+[START] Test 'tests/test_practice_form.py::test_fill_practice_form[data0]' - 10:33:10
+[END] Test 'tests/test_practice_form.py::test_fill_practice_form[data0]' finished in 21.78 seconds.
+
+[START] Test 'tests/test_practice_form.py::test_fill_practice_form[data1]' - 10:33:32
+[END] Test 'tests/test_practice_form.py::test_fill_practice_form[data1]' finished in 13.17 seconds.
+
+[START] Test 'tests/test_practice_form.py::test_fill_practice_form[data0]' - 10:46:18
+[END] Test 'tests/test_practice_form.py::test_fill_practice_form[data0]' finished in 38.52 seconds.
+
+[START] Test 'tests/test_practice_form.py::test_fill_practice_form[data1]' - 10:46:57
+[END] Test 'tests/test_practice_form.py::test_fill_practice_form[data1]' finished in 12.26 seconds.
+
+[START] Test 'tests/test_practice_form.py::test_fill_practice_form[data0]' - 10:51:22
+[END] Test 'tests/test_practice_form.py::test_fill_practice_form[data0]' finished in 17.67 seconds.
+
+[START] Test 'tests/test_practice_form.py::test_fill_practice_form[data1]' - 10:51:40
+[END] Test 'tests/test_practice_form.py::test_fill_practice_form[data1]' finished in 13.27 seconds.
+
+[START] Test 'Day2/test_check_box.py::test_check_box' - 23:02:06
+[END] Test 'Day2/test_check_box.py::test_check_box' finished in 37.65 seconds.
+
+[START] Test 'Day2/test_check_box.py::test_check_box_commands' - 23:02:44
+[END] Test 'Day2/test_check_box.py::test_check_box_commands' finished in 23.69 seconds.
+
+[START] Test 'Day2/test_check_box.py::test_check_box' - 23:03:17
+[END] Test 'Day2/test_check_box.py::test_check_box' finished in 137.83 seconds.
+
+[START] Test 'Day2/test_check_box.py::test_check_box_commands' - 23:05:35
+[END] Test 'Day2/test_check_box.py::test_check_box_commands' finished in 21.71 seconds.
+
+[START] Test 'Day2/test_check_box.py::test_check_box' - 23:06:12
+[END] Test 'Day2/test_check_box.py::test_check_box' finished in 8.42 seconds.
+
+[START] Test 'Day2/test_check_box.py::test_check_box_commands' - 23:06:20
+
+[START] Test 'Day2/test_buttons.py::test_double_click_button' - 23:06:37
+[END] Test 'Day2/test_buttons.py::test_double_click_button' finished in 7.52 seconds.
+
+[START] Test 'Day2/test_buttons.py::test_right_click_button' - 23:06:45
+[END] Test 'Day2/test_buttons.py::test_right_click_button' finished in 41.33 seconds.
+
+[START] Test 'Day2/test_buttons.py::test_dynamic_click_button' - 23:07:26
+[END] Test 'Day2/test_buttons.py::test_dynamic_click_button' finished in 13.02 seconds.
+
+[START] Test 'Day2/test_check_box.py::test_check_box' - 23:07:39
+[END] Test 'Day2/test_check_box.py::test_check_box' finished in 14.69 seconds.
+
+[START] Test 'Day2/test_check_box.py::test_check_box_commands' - 23:07:54
+[END] Test 'Day2/test_check_box.py::test_check_box_commands' finished in 13.81 seconds.
+
+[START] Test 'Day2/test_elements.py::test_navigate_to_elements_page' - 23:08:08
+[END] Test 'Day2/test_elements.py::test_navigate_to_elements_page' finished in 9.07 seconds.
+
+[START] Test 'Day2/test_elements.py::test_locate_by_id' - 23:08:17
+[END] Test 'Day2/test_elements.py::test_locate_by_id' finished in 8.94 seconds.
+
+[START] Test 'Day2/test_elements.py::test_locate_by_css_selector' - 23:08:26
+[END] Test 'Day2/test_elements.py::test_locate_by_css_selector' finished in 34.04 seconds.
+
+[START] Test 'Day2/test_elements.py::test_locate_by_xpath' - 23:09:00
+[END] Test 'Day2/test_elements.py::test_locate_by_xpath' finished in 15.05 seconds.
+
+[START] Test 'Day2/test_radio_button.py::test_interact_with_radio_button' - 23:09:15
+[END] Test 'Day2/test_radio_button.py::test_interact_with_radio_button' finished in 34.22 seconds.
+
+[START] Test 'Day2/test_screenshot.py::test_button_clicks_with_screenshots' - 23:09:49
+[END] Test 'Day2/test_screenshot.py::test_button_clicks_with_screenshots' finished in 9.23 seconds.
+
+[START] Test 'Day2/test_text_box.py::test_fill_text_box_form_and_validate' - 23:09:58
+[END] Test 'Day2/test_text_box.py::test_fill_text_box_form_and_validate' finished in 18.80 seconds.
+
+[START] Test 'tests/test_tool_tips.py::test_hover_over_button' - 23:16:26
+[END] Test 'tests/test_tool_tips.py::test_hover_over_button' finished in 9.52 seconds.
+
+[START] Test 'tests/test_tool_tips.py::test_hover_over_input' - 23:16:36
+[END] Test 'tests/test_tool_tips.py::test_hover_over_input' finished in 9.82 seconds.
+
+[START] Test 'tests/test_scopes.py::TestGroupA::test_one' - 08:44:49
+[END] Test 'tests/test_scopes.py::TestGroupA::test_one' finished in 0.01 seconds.
+
+[START] Test 'tests/test_scopes.py::TestGroupA::test_two' - 08:44:49
+[END] Test 'tests/test_scopes.py::TestGroupA::test_two' finished in 0.00 seconds.
+
+[START] Test 'tests/test_scopes.py::TestGroupB::test_three' - 08:44:49
+[END] Test 'tests/test_scopes.py::TestGroupB::test_three' finished in 0.00 seconds.
+
+[START] Test 'tests/test_scopes.py::TestGroupA::test_one' - 08:46:52
+[END] Test 'tests/test_scopes.py::TestGroupA::test_one' finished in 0.01 seconds.
+
+[START] Test 'tests/test_scopes.py::TestGroupA::test_two' - 08:46:52
+[END] Test 'tests/test_scopes.py::TestGroupA::test_two' finished in 0.00 seconds.
+
+[START] Test 'tests/test_scopes.py::TestGroupB::test_three' - 08:46:52
+[END] Test 'tests/test_scopes.py::TestGroupB::test_three' finished in 0.00 seconds.
+
+[START] Test 'tests/test_scopes.py::TestGroupA::test_one' - 08:47:54
+[END] Test 'tests/test_scopes.py::TestGroupA::test_one' finished in 0.00 seconds.
+
+[START] Test 'tests/test_scopes.py::TestGroupA::test_two' - 08:47:54
+[END] Test 'tests/test_scopes.py::TestGroupA::test_two' finished in 0.00 seconds.
+
+[START] Test 'tests/test_scopes.py::TestGroupB::test_three' - 08:47:54
+[END] Test 'tests/test_scopes.py::TestGroupB::test_three' finished in 0.00 seconds.
+
+[START] Test 'tests/test_scopes.py::TestGroupA::test_one' - 08:48:27
+[END] Test 'tests/test_scopes.py::TestGroupA::test_one' finished in 0.00 seconds.
+
+[START] Test 'tests/test_scopes.py::TestGroupA::test_two' - 08:48:27
+[END] Test 'tests/test_scopes.py::TestGroupA::test_two' finished in 0.00 seconds.
+
+[START] Test 'tests/test_scopes.py::TestGroupB::test_three' - 08:48:27
+[END] Test 'tests/test_scopes.py::TestGroupB::test_three' finished in 0.00 seconds.
+
+[START] Test 'Day2/test_buttons.py::test_double_click_button' - 08:49:05
+[END] Test 'Day2/test_buttons.py::test_double_click_button' finished in 11.97 seconds.
+
+[START] Test 'Day2/test_buttons.py::test_right_click_button' - 08:49:17
+[END] Test 'Day2/test_buttons.py::test_right_click_button' finished in 14.98 seconds.
+
+[START] Test 'Day2/test_buttons.py::test_dynamic_click_button' - 08:49:32
+[END] Test 'Day2/test_buttons.py::test_dynamic_click_button' finished in 12.38 seconds.
+
+[START] Test 'tests/test_elements2.py::test_navigate_to_elements_page' - 09:10:30
+
+[START] Test 'tests/test_elements2.py::test_locate_by_css_selector' - 09:10:30
+[END] Test 'tests/test_elements2.py::test_locate_by_css_selector' finished in 12.60 seconds.
+
+[START] Test 'tests/test_elements2.py::test_locate_by_xpath' - 09:10:43
+[END] Test 'tests/test_elements2.py::test_navigate_to_elements_page' finished in 15.13 seconds.
+
+[START] Test 'tests/test_elements2.py::test_locate_by_id' - 09:10:45
+[END] Test 'tests/test_elements2.py::test_locate_by_xpath' finished in 10.48 seconds.
+
+[START] Test 'tests/test_practice_form.py::test_fill_practice_form[data0]' - 09:10:53
+[END] Test 'tests/test_elements2.py::test_locate_by_id' finished in 14.05 seconds.
+
+[START] Test 'tests/test_practice_form.py::test_fill_practice_form[data1]' - 09:10:59
+[END] Test 'tests/test_practice_form.py::test_fill_practice_form[data0]' finished in 14.27 seconds.
+
+[START] Test 'tests/test_scopes.py::TestGroupA::test_one' - 09:11:08
+[END] Test 'tests/test_scopes.py::TestGroupA::test_one' finished in 0.00 seconds.
+
+[START] Test 'tests/test_scopes.py::TestGroupB::test_three' - 09:11:08
+[END] Test 'tests/test_scopes.py::TestGroupB::test_three' finished in 0.01 seconds.
+
+[START] Test 'tests/test_text_box.py::test_fill_text_box_form_and_validate' - 09:11:08
+[END] Test 'tests/test_text_box.py::test_fill_text_box_form_and_validate' finished in 2.26 seconds.
+
+[START] Test 'tests/test_tool_tips.py::test_hover_over_button' - 09:11:10
+[END] Test 'tests/test_practice_form.py::test_fill_practice_form[data1]' finished in 13.42 seconds.
+
+[START] Test 'tests/test_scopes.py::TestGroupA::test_two' - 09:11:13
+[END] Test 'tests/test_scopes.py::TestGroupA::test_two' finished in 0.00 seconds.
+[END] Test 'tests/test_tool_tips.py::test_hover_over_button' finished in 10.01 seconds.
+
+[START] Test 'tests/test_tool_tips.py::test_hover_over_input' - 09:11:20
+[END] Test 'tests/test_tool_tips.py::test_hover_over_input' finished in 10.11 seconds.
+
+[START] Test 'tests/test_alert.py::test_simple_alert' - 10:53:38
+[END] Test 'tests/test_alert.py::test_simple_alert' finished in 4.28 seconds.
+
+[START] Test 'tests/test_alert.py::test_timer_alert' - 10:53:42
+[END] Test 'tests/test_alert.py::test_timer_alert' finished in 1.74 seconds.
+
+[START] Test 'tests/test_alert.py::test_confirm_alert_accept' - 10:53:44
+[END] Test 'tests/test_alert.py::test_confirm_alert_accept' finished in 1.72 seconds.
+
+[START] Test 'tests/test_alert.py::test_confirm_alert_dismiss' - 10:53:46
+[END] Test 'tests/test_alert.py::test_confirm_alert_dismiss' finished in 1.73 seconds.
+
+[START] Test 'tests/test_alert.py::test_prompt_alert_accept' - 10:53:47
+[END] Test 'tests/test_alert.py::test_prompt_alert_accept' finished in 1.72 seconds.
+
+[START] Test 'tests/test_alert.py::test_prompt_alert_dismiss' - 10:53:49
+[END] Test 'tests/test_alert.py::test_prompt_alert_dismiss' finished in 1.73 seconds.
+
+[START] Test 'tests/test_alert.py::test_simple_alert' - 10:54:16
+[END] Test 'tests/test_alert.py::test_simple_alert' finished in 6.54 seconds.
+
+[START] Test 'tests/test_alert.py::test_timer_alert' - 10:54:22
+[END] Test 'tests/test_alert.py::test_timer_alert' finished in 6.43 seconds.
+
+[START] Test 'tests/test_alert.py::test_confirm_alert_accept' - 10:54:29
+[END] Test 'tests/test_alert.py::test_confirm_alert_accept' finished in 6.44 seconds.
+
+[START] Test 'tests/test_alert.py::test_confirm_alert_dismiss' - 10:54:35
+[END] Test 'tests/test_alert.py::test_confirm_alert_dismiss' finished in 21.96 seconds.
+
+[START] Test 'tests/test_alert.py::test_prompt_alert_accept' - 10:54:57
+[END] Test 'tests/test_alert.py::test_prompt_alert_accept' finished in 7.58 seconds.
+
+[START] Test 'tests/test_alert.py::test_prompt_alert_dismiss' - 10:55:05
+[END] Test 'tests/test_alert.py::test_prompt_alert_dismiss' finished in 3.41 seconds.
+
+[START] Test 'tests/test_alert.py::test_simple_alert' - 10:58:34
+[END] Test 'tests/test_alert.py::test_simple_alert' finished in 9.43 seconds.
+
+[START] Test 'tests/test_alert.py::test_timer_alert' - 10:58:43
+[END] Test 'tests/test_alert.py::test_timer_alert' finished in 9.68 seconds.
+
+[START] Test 'tests/test_alert.py::test_confirm_alert_accept' - 10:58:53
+[END] Test 'tests/test_alert.py::test_confirm_alert_accept' finished in 2.48 seconds.
+
+[START] Test 'tests/test_alert.py::test_confirm_alert_dismiss' - 10:58:55
+[END] Test 'tests/test_alert.py::test_confirm_alert_dismiss' finished in 2.80 seconds.
+
+[START] Test 'tests/test_alert.py::test_prompt_alert_accept' - 10:58:58
+[END] Test 'tests/test_alert.py::test_prompt_alert_accept' finished in 2.54 seconds.
+
+[START] Test 'tests/test_alert.py::test_prompt_alert_dismiss' - 10:59:01
+[END] Test 'tests/test_alert.py::test_prompt_alert_dismiss' finished in 2.99 seconds.
+
+[START] Test 'tests/test_alert.py::test_simple_alert' - 11:00:47
+[END] Test 'tests/test_alert.py::test_simple_alert' finished in 10.17 seconds.
+
+[START] Test 'tests/test_alert.py::test_timer_alert' - 11:00:58
+[END] Test 'tests/test_alert.py::test_timer_alert' finished in 2.51 seconds.
+
+[START] Test 'tests/test_alert.py::test_confirm_alert_accept' - 11:01:00
+[END] Test 'tests/test_alert.py::test_confirm_alert_accept' finished in 2.36 seconds.
+
+[START] Test 'tests/test_alert.py::test_confirm_alert_dismiss' - 11:01:02
+[END] Test 'tests/test_alert.py::test_confirm_alert_dismiss' finished in 2.39 seconds.
+
+[START] Test 'tests/test_alert.py::test_prompt_alert_accept' - 11:01:05
+[END] Test 'tests/test_alert.py::test_prompt_alert_accept' finished in 2.27 seconds.
+
+[START] Test 'tests/test_alert.py::test_prompt_alert_dismiss' - 11:01:07
+[END] Test 'tests/test_alert.py::test_prompt_alert_dismiss' finished in 8.89 seconds.
+
+[START] Test 'tests/test_alert.py::test_simple_alert' - 11:02:09
+[END] Test 'tests/test_alert.py::test_simple_alert' finished in 9.99 seconds.
+
+[START] Test 'tests/test_alert.py::test_timer_alert' - 11:02:19
+[END] Test 'tests/test_alert.py::test_timer_alert' finished in 2.62 seconds.
+
+[START] Test 'tests/test_alert.py::test_confirm_alert_accept' - 11:02:22
+[END] Test 'tests/test_alert.py::test_confirm_alert_accept' finished in 2.54 seconds.
+
+[START] Test 'tests/test_alert.py::test_confirm_alert_dismiss' - 11:02:24
+[END] Test 'tests/test_alert.py::test_confirm_alert_dismiss' finished in 2.41 seconds.
+
+[START] Test 'tests/test_alert.py::test_prompt_alert_accept' - 11:02:27
+[END] Test 'tests/test_alert.py::test_prompt_alert_accept' finished in 2.36 seconds.
+
+[START] Test 'tests/test_alert.py::test_prompt_alert_dismiss' - 11:02:29
+[END] Test 'tests/test_alert.py::test_prompt_alert_dismiss' finished in 2.39 seconds.
+
+[START] Test 'tests/test_alert.py::test_simple_alert' - 11:03:03
+[END] Test 'tests/test_alert.py::test_simple_alert' finished in 8.42 seconds.
+
+[START] Test 'tests/test_alert.py::test_simple_alert' - 11:07:16
+[END] Test 'tests/test_alert.py::test_simple_alert' finished in 9.98 seconds.
+
+[START] Test 'tests/test_alert.py::test_timer_alert' - 11:07:26
+[END] Test 'tests/test_alert.py::test_timer_alert' finished in 9.61 seconds.
+
+[START] Test 'tests/test_alert.py::test_confirm_alert_accept' - 11:07:36
+[END] Test 'tests/test_alert.py::test_confirm_alert_accept' finished in 11.76 seconds.
+
+[START] Test 'tests/test_alert.py::test_confirm_alert_dismiss' - 11:07:47
+[END] Test 'tests/test_alert.py::test_confirm_alert_dismiss' finished in 9.39 seconds.
+
+[START] Test 'tests/test_alert.py::test_prompt_alert_accept' - 11:07:57
+[END] Test 'tests/test_alert.py::test_prompt_alert_accept' finished in 9.38 seconds.
+
+[START] Test 'tests/test_alert.py::test_prompt_alert_dismiss' - 11:08:06
+[END] Test 'tests/test_alert.py::test_prompt_alert_dismiss' finished in 8.48 seconds.
+
+[START] Test 'tests/test_alert.py::test_simple_alert' - 11:11:38
+[END] Test 'tests/test_alert.py::test_simple_alert' finished in 10.46 seconds.
+
+[START] Test 'tests/test_alert.py::test_timer_alert' - 11:11:49
+[END] Test 'tests/test_alert.py::test_timer_alert' finished in 8.96 seconds.
+
+[START] Test 'tests/test_alert.py::test_confirm_alert_accept' - 11:11:58
+[END] Test 'tests/test_alert.py::test_confirm_alert_accept' finished in 8.12 seconds.
+
+[START] Test 'tests/test_alert.py::test_confirm_alert_dismiss' - 11:12:06
+[END] Test 'tests/test_alert.py::test_confirm_alert_dismiss' finished in 2.46 seconds.
+
+[START] Test 'tests/test_alert.py::test_prompt_alert_accept' - 11:12:08
+[END] Test 'tests/test_alert.py::test_prompt_alert_accept' finished in 2.50 seconds.
+
+[START] Test 'tests/test_alert.py::test_prompt_alert_dismiss' - 11:12:11
+[END] Test 'tests/test_alert.py::test_prompt_alert_dismiss' finished in 9.54 seconds.
+
+[START] Test 'tests/test_alert.py::test_simple_alert' - 11:14:00
+[END] Test 'tests/test_alert.py::test_simple_alert' finished in 8.57 seconds.
+
+[START] Test 'tests/test_alert.py::test_timer_alert' - 11:14:09
+[END] Test 'tests/test_alert.py::test_timer_alert' finished in 9.59 seconds.
+
+[START] Test 'tests/test_alert.py::test_confirm_alert_accept' - 11:14:19
+[END] Test 'tests/test_alert.py::test_confirm_alert_accept' finished in 9.72 seconds.
+
+[START] Test 'tests/test_alert.py::test_confirm_alert_dismiss' - 11:14:28
+[END] Test 'tests/test_alert.py::test_confirm_alert_dismiss' finished in 11.39 seconds.
+
+[START] Test 'tests/test_alert.py::test_prompt_alert_accept' - 11:14:40
+[END] Test 'tests/test_alert.py::test_prompt_alert_accept' finished in 8.18 seconds.
+
+[START] Test 'tests/test_alert.py::test_prompt_alert_dismiss' - 11:14:48
+[END] Test 'tests/test_alert.py::test_prompt_alert_dismiss' finished in 8.90 seconds.
+
+[START] Test 'tests/test_alert.py::test_simple_alert' - 11:16:32
+[END] Test 'tests/test_alert.py::test_simple_alert' finished in 9.99 seconds.
+
+[START] Test 'tests/test_alert.py::test_timer_alert' - 11:16:42
+[END] Test 'tests/test_alert.py::test_timer_alert' finished in 10.93 seconds.
+
+[START] Test 'tests/test_alert.py::test_confirm_alert_accept' - 11:16:53
+[END] Test 'tests/test_alert.py::test_confirm_alert_accept' finished in 10.91 seconds.
+
+[START] Test 'tests/test_alert.py::test_confirm_alert_dismiss' - 11:17:04
+[END] Test 'tests/test_alert.py::test_confirm_alert_dismiss' finished in 11.19 seconds.
+
+[START] Test 'tests/test_alert.py::test_prompt_alert_accept' - 11:17:15
+[END] Test 'tests/test_alert.py::test_prompt_alert_accept' finished in 3.55 seconds.
+
+[START] Test 'tests/test_alert.py::test_prompt_alert_dismiss' - 11:17:19
+[END] Test 'tests/test_alert.py::test_prompt_alert_dismiss' finished in 3.14 seconds.
+
+[START] Test 'tests/test_alert.py::test_simple_alert' - 11:20:35
+[END] Test 'tests/test_alert.py::test_simple_alert' finished in 9.93 seconds.
+
+[START] Test 'tests/test_alert.py::test_timer_alert' - 11:20:45
+[END] Test 'tests/test_alert.py::test_timer_alert' finished in 4.50 seconds.
+
+[START] Test 'tests/test_alert.py::test_confirm_alert_accept' - 11:20:50
+[END] Test 'tests/test_alert.py::test_confirm_alert_accept' finished in 2.30 seconds.
+
+[START] Test 'tests/test_alert.py::test_confirm_alert_dismiss' - 11:20:52
+[END] Test 'tests/test_alert.py::test_confirm_alert_dismiss' finished in 2.12 seconds.
+
+[START] Test 'tests/test_alert.py::test_prompt_alert_accept' - 11:20:54
+[END] Test 'tests/test_alert.py::test_prompt_alert_accept' finished in 2.09 seconds.
+
+[START] Test 'tests/test_alert.py::test_prompt_alert_dismiss' - 11:20:56
+[END] Test 'tests/test_alert.py::test_prompt_alert_dismiss' finished in 1.98 seconds.
+
+[START] Test 'tests/test_alert.py::test_simple_alert' - 11:21:41
+[END] Test 'tests/test_alert.py::test_simple_alert' finished in 9.41 seconds.
+
+[START] Test 'tests/test_alert.py::test_timer_alert' - 11:21:50
+[END] Test 'tests/test_alert.py::test_timer_alert' finished in 2.97 seconds.
+
+[START] Test 'tests/test_alert.py::test_confirm_alert_accept' - 11:21:53
+[END] Test 'tests/test_alert.py::test_confirm_alert_accept' finished in 2.01 seconds.
+
+[START] Test 'tests/test_alert.py::test_confirm_alert_dismiss' - 11:21:55
+[END] Test 'tests/test_alert.py::test_confirm_alert_dismiss' finished in 1.88 seconds.
+
+[START] Test 'tests/test_alert.py::test_prompt_alert_accept' - 11:21:57
+[END] Test 'tests/test_alert.py::test_prompt_alert_accept' finished in 2.05 seconds.
+
+[START] Test 'tests/test_alert.py::test_prompt_alert_dismiss' - 11:21:59
+[END] Test 'tests/test_alert.py::test_prompt_alert_dismiss' finished in 2.00 seconds.
+
+[START] Test 'tests/test_alert.py::test_simple_alert' - 11:24:01
+[END] Test 'tests/test_alert.py::test_simple_alert' finished in 11.41 seconds.
+
+[START] Test 'tests/test_alert.py::test_timer_alert' - 11:24:13
+[END] Test 'tests/test_alert.py::test_timer_alert' finished in 9.31 seconds.
+
+[START] Test 'tests/test_alert.py::test_confirm_alert_accept' - 11:24:22
+[END] Test 'tests/test_alert.py::test_confirm_alert_accept' finished in 82.90 seconds.
+
+[START] Test 'tests/test_alert.py::test_confirm_alert_dismiss' - 11:25:45
+[END] Test 'tests/test_alert.py::test_confirm_alert_dismiss' finished in 2.84 seconds.
+
+[START] Test 'tests/test_alert.py::test_prompt_alert_accept' - 11:25:48
+[END] Test 'tests/test_alert.py::test_prompt_alert_accept' finished in 3.09 seconds.
+
+[START] Test 'tests/test_alert.py::test_prompt_alert_dismiss' - 11:25:51
+[END] Test 'tests/test_alert.py::test_prompt_alert_dismiss' finished in 3.61 seconds.
+
+[START] Test 'tests/test_alert.py::test_simple_alert' - 11:27:30
+[END] Test 'tests/test_alert.py::test_simple_alert' finished in 301.66 seconds.
+
+[START] Test 'tests/test_alert.py::test_timer_alert' - 11:32:32
+[END] Test 'tests/test_alert.py::test_timer_alert' finished in 125.99 seconds.
+
+[START] Test 'tests/test_alert.py::test_confirm_alert_accept' - 11:34:38
+[END] Test 'tests/test_alert.py::test_confirm_alert_accept' finished in 6.93 seconds.
+
+[START] Test 'tests/test_alert.py::test_confirm_alert_dismiss' - 11:34:45
+[END] Test 'tests/test_alert.py::test_confirm_alert_dismiss' finished in 1.93 seconds.
+
+[START] Test 'tests/test_alert.py::test_prompt_alert_accept' - 11:34:47
+[END] Test 'tests/test_alert.py::test_prompt_alert_accept' finished in 2.02 seconds.
+
+[START] Test 'tests/test_alert.py::test_prompt_alert_dismiss' - 11:34:49
+[END] Test 'tests/test_alert.py::test_prompt_alert_dismiss' finished in 1.89 seconds.
+
+[START] Test 'tests/test_alert.py::test_simple_alert' - 08:23:21
+[END] Test 'tests/test_alert.py::test_simple_alert' finished in 12.72 seconds.
+
+[START] Test 'tests/test_alert.py::test_timer_alert' - 08:23:34
+[END] Test 'tests/test_alert.py::test_timer_alert' finished in 14.57 seconds.
+
+[START] Test 'tests/test_alert.py::test_confirm_alert_accept' - 08:23:48
+[END] Test 'tests/test_alert.py::test_confirm_alert_accept' finished in 9.68 seconds.
+
+[START] Test 'tests/test_alert.py::test_confirm_alert_dismiss' - 08:23:58
+[END] Test 'tests/test_alert.py::test_confirm_alert_dismiss' finished in 8.88 seconds.
+
+[START] Test 'tests/test_alert.py::test_prompt_alert_accept' - 08:24:07
+[END] Test 'tests/test_alert.py::test_prompt_alert_accept' finished in 9.31 seconds.
+
+[START] Test 'tests/test_alert.py::test_prompt_alert_dismiss' - 08:24:16
+[END] Test 'tests/test_alert.py::test_prompt_alert_dismiss' finished in 19.54 seconds.
+
+[START] Test 'tests/test_login.py::test_validate_login' - 08:59:08
+[END] Test 'tests/test_login.py::test_validate_login' finished in 3.95 seconds.
+
+[START] Test 'tests/test_login.py::test_validate_login' - 09:01:37
+[END] Test 'tests/test_login.py::test_validate_login' finished in 11.99 seconds.
+
+[START] Test 'tests/test_login.py::test_validate_login' - 09:02:37
+[END] Test 'tests/test_login.py::test_validate_login' finished in 9.15 seconds.
+
+[START] Test 'tests/test_login.py::test_validate_login' - 09:03:47
+[END] Test 'tests/test_login.py::test_validate_login' finished in 10.32 seconds.
+
+[START] Test 'tests/test_login.py::test_register_and_login' - 09:21:42
+[END] Test 'tests/test_login.py::test_register_and_login' finished in 14.43 seconds.
+
+[START] Test 'tests/test_login.py::test_register' - 09:23:47
+[END] Test 'tests/test_login.py::test_register' finished in 0.00 seconds.
+
+[START] Test 'tests/test_login.py::test_login' - 09:23:47
+[END] Test 'tests/test_login.py::test_login' finished in 12.86 seconds.
+
+[START] Test 'tests/test_login.py::test_validate_login' - 09:25:52
+[END] Test 'tests/test_login.py::test_validate_login' finished in 20.09 seconds.
+
+[START] Test 'tests/test_login.py::test_register_and_login' - 09:27:38
+[END] Test 'tests/test_login.py::test_register_and_login' finished in 14.57 seconds.
+
+[START] Test 'tests/test_login.py::test_register_and_login' - 09:28:03
+[END] Test 'tests/test_login.py::test_register_and_login' finished in 12.64 seconds.
+
+[START] Test 'tests/test_login.py::test_register_and_login' - 09:29:46
+[END] Test 'tests/test_login.py::test_register_and_login' finished in 30.58 seconds.
+
+[START] Test 'tests/test_login.py::test_register_and_login' - 09:30:24
+[END] Test 'tests/test_login.py::test_register_and_login' finished in 38.74 seconds.
+
+[START] Test 'tests/test_login.py::test_register_and_login' - 09:33:25
+[END] Test 'tests/test_login.py::test_register_and_login' finished in 13.36 seconds.
+
+[START] Test 'tests/test_login.py::test_register_and_login' - 09:35:55
+[END] Test 'tests/test_login.py::test_register_and_login' finished in 26.49 seconds.
+
+[START] Test 'tests/test_login.py::test_register_and_login' - 09:38:58
+[END] Test 'tests/test_login.py::test_register_and_login' finished in 29.65 seconds.
+
+[START] Test 'tests/test_login.py::test_register_and_login' - 09:39:45
+[END] Test 'tests/test_login.py::test_register_and_login' finished in 32.23 seconds.
+
+[START] Test 'tests/test_login.py::test_register_and_login' - 09:41:09
+[END] Test 'tests/test_login.py::test_register_and_login' finished in 27.76 seconds.
+
+[START] Test 'tests/test_login.py::test_register_and_login' - 09:46:33
+[END] Test 'tests/test_login.py::test_register_and_login' finished in 28.13 seconds.
+
+[START] Test 'tests/test_tool_tips.py::test_hover_over_button[chrome-chrome]' - 11:17:25
+
+[START] Test 'tests/test_tool_tips.py::test_hover_over_input[chrome-chrome]' - 11:17:25
+[END] Test 'tests/test_tool_tips.py::test_hover_over_button[chrome-chrome]' finished in 13.72 seconds.
+
+[START] Test 'tests/test_tool_tips.py::test_hover_over_button[firefox-chrome]' - 11:17:39
+[END] Test 'tests/test_tool_tips.py::test_hover_over_input[chrome-chrome]' finished in 26.15 seconds.
+
+[START] Test 'tests/test_tool_tips.py::test_hover_over_input[firefox-chrome]' - 11:17:52
+[END] Test 'tests/test_tool_tips.py::test_hover_over_button[firefox-chrome]' finished in 25.55 seconds.
+[END] Test 'tests/test_tool_tips.py::test_hover_over_input[firefox-chrome]' finished in 32.65 seconds.
+
+[START] Test 'tests/test_tool_tips.py::test_hover_over_button[chrome-chrome]' - 11:18:59
+
+[START] Test 'tests/test_tool_tips.py::test_hover_over_input[chrome-chrome]' - 11:18:59
+[END] Test 'tests/test_tool_tips.py::test_hover_over_button[chrome-chrome]' finished in 6.70 seconds.
+
+[START] Test 'tests/test_tool_tips.py::test_hover_over_button[firefox-chrome]' - 11:19:06
+[END] Test 'tests/test_tool_tips.py::test_hover_over_input[chrome-chrome]' finished in 19.97 seconds.
+
+[START] Test 'tests/test_tool_tips.py::test_hover_over_input[firefox-chrome]' - 11:19:19
+[END] Test 'tests/test_tool_tips.py::test_hover_over_button[firefox-chrome]' finished in 21.90 seconds.
+[END] Test 'tests/test_tool_tips.py::test_hover_over_input[firefox-chrome]' finished in 22.90 seconds.
+
+[START] Test 'tests/test_tool_tips.py::test_hover_over_input[chrome-chrome]' - 11:24:31
+
+[START] Test 'tests/test_tool_tips.py::test_hover_over_button[chrome-chrome]' - 11:24:31
+[END] Test 'tests/test_tool_tips.py::test_hover_over_input[chrome-chrome]' finished in 6.19 seconds.
+
+[START] Test 'tests/test_tool_tips.py::test_hover_over_input[firefox-chrome]' - 11:24:37
+[END] Test 'tests/test_tool_tips.py::test_hover_over_button[chrome-chrome]' finished in 12.42 seconds.
+
+[START] Test 'tests/test_tool_tips.py::test_hover_over_button[firefox-chrome]' - 11:24:43
+[END] Test 'tests/test_tool_tips.py::test_hover_over_input[firefox-chrome]' finished in 12.09 seconds.
+[END] Test 'tests/test_tool_tips.py::test_hover_over_button[firefox-chrome]' finished in 12.72 seconds.
+
+[START] Test 'tests/test_tool_tips.py::test_hover_over_input[chrome-chrome]' - 11:25:04
+
+[START] Test 'tests/test_tool_tips.py::test_hover_over_button[chrome-chrome]' - 11:25:04
+[END] Test 'tests/test_tool_tips.py::test_hover_over_input[chrome-chrome]' finished in 8.10 seconds.
+
+[START] Test 'tests/test_tool_tips.py::test_hover_over_input[firefox-chrome]' - 11:25:13
+[END] Test 'tests/test_tool_tips.py::test_hover_over_button[chrome-chrome]' finished in 14.34 seconds.
+
+[START] Test 'tests/test_tool_tips.py::test_hover_over_button[firefox-chrome]' - 11:25:19
+[END] Test 'tests/test_tool_tips.py::test_hover_over_input[firefox-chrome]' finished in 12.59 seconds.
+[END] Test 'tests/test_tool_tips.py::test_hover_over_button[firefox-chrome]' finished in 13.31 seconds.
+
+[START] Test 'tests/test_tool_tips.py::test_hover_over_input[chrome-chrome]' - 11:25:46
+
+[START] Test 'tests/test_tool_tips.py::test_hover_over_button[chrome-chrome]' - 11:25:46
+[END] Test 'tests/test_tool_tips.py::test_hover_over_button[chrome-chrome]' finished in 17.23 seconds.
+
+[START] Test 'tests/test_tool_tips.py::test_hover_over_button[firefox-chrome]' - 11:26:03
+[END] Test 'tests/test_tool_tips.py::test_hover_over_input[chrome-chrome]' finished in 24.60 seconds.
+
+[START] Test 'tests/test_tool_tips.py::test_hover_over_input[firefox-chrome]' - 11:26:10
+[END] Test 'tests/test_tool_tips.py::test_hover_over_button[firefox-chrome]' finished in 13.77 seconds.
+[END] Test 'tests/test_tool_tips.py::test_hover_over_input[firefox-chrome]' finished in 13.02 seconds.

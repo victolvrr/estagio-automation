@@ -1,0 +1,3 @@
+
+[START] Test 'tests/test_tool_tips.py::test_hover_over_button[chrome-chrome]' - 11:18:59
+[END] Test 'tests/test_tool_tips.py::test_hover_over_button[chrome-chrome]' finished in 6.70 seconds.

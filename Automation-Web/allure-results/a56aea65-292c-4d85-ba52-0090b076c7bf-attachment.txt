@@ -1,0 +1,3 @@
+
+[START] Test 'tests/test_alert.py::test_confirm_alert_dismiss' - 11:21:55
+[END] Test 'tests/test_alert.py::test_confirm_alert_dismiss' finished in 1.88 seconds.

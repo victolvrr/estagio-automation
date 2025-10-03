@@ -1,0 +1,4 @@
+
+[START] Test 'tests/test_tool_tips.py::test_hover_over_input' - 09:11:20
+[TEARDOWN] session_resource
+[END] Test 'tests/test_tool_tips.py::test_hover_over_input' finished in 10.11 seconds.

@@ -1,0 +1,3 @@
+
+[START] Test 'tests/test_login.py::test_register_and_login' - 09:41:09
+[END] Test 'tests/test_login.py::test_register_and_login' finished in 27.76 seconds.

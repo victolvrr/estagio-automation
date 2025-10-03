@@ -1,0 +1,3 @@
+
+[START] Test 'tests/test_alert.py::test_simple_alert' - 11:03:03
+[END] Test 'tests/test_alert.py::test_simple_alert' finished in 8.42 seconds.

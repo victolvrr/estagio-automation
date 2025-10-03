@@ -1,0 +1,3 @@
+
+[START] Test 'tests/test_elements2.py::test_locate_by_xpath' - 09:10:43
+[END] Test 'tests/test_elements2.py::test_locate_by_xpath' finished in 10.48 seconds.

@@ -1,0 +1,3 @@
+
+[START] Test 'tests/test_elements2.py::test_locate_by_id' - 09:10:45
+[END] Test 'tests/test_elements2.py::test_locate_by_id' finished in 14.05 seconds.
